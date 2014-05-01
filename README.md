@@ -2,5 +2,7 @@ threejs-boilerplate
 ===================
 
 
-Three.js boilerplates, including:
-    - SublimeText2 snippet
+Three.js boilerplates, including: 
+    <ul>
+    <li>Sublime Text 2 snippets</li>
+    </ul>
