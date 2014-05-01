@@ -6,7 +6,7 @@ Three.js boilerplates
 <h3>Usage</h3>
 <ul>
 <li>Copy the files in your folder</li>
-<li>Include the follow in your main script tag/file:
+<li>Include the following in your main script tag/file:
 <blockquote>
 Scriptname.init();
 </blockquote>
