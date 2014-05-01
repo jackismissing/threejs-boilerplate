@@ -12,3 +12,15 @@ Scriptname.init();
 </blockquote>
 </li>
 </ul>
+
+<h2>Snippets</h2>
+<h3>Usage</h3>
+<ul>
+<li>TODO</li>
+<li>TODO:
+<blockquote>
+TODO
+</blockquote>
+</li>
+</ul>
+
